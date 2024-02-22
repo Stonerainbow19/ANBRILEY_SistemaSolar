@@ -23,7 +23,7 @@ header{
 
 #logo {
     display: flex;
-    margin:0 20px;
+    margin:auto 20px;
 }
 #logo span {
     margin: auto 0;
