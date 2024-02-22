@@ -25,6 +25,7 @@ header{
 
 header li {
     display: inline;
+    margin: auto 0;
 }
 
 #logo {
