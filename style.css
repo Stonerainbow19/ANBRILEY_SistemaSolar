@@ -40,6 +40,11 @@ header{
 
 }
 
+#buttons button:hover {
+    background-color: #29234e;
+    color: white;
+}
+
 
 #logo {
     display: flex;
