@@ -17,4 +17,5 @@ body {
 
 #logo {
     display: flex;
+    padding: auto;
 }
