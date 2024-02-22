@@ -21,6 +21,9 @@ header{
 
 }
 
+header ul {
+    display: flex;
+}
 
 header li {
     display: inline;
