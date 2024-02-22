@@ -23,7 +23,7 @@ header{
 }
 
 
-header li {
+#buttons {
     display: inline;
     padding: 20px;
     background-color: #5E51AE;
