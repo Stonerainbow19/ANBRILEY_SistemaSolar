@@ -24,6 +24,7 @@ header{
 #logo {
     display: flex;
 }
-#logo h1 {
+#logo span {
     margin: auto 0;
+    font-size: 40px;
 }
