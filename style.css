@@ -22,9 +22,8 @@ header{
 
 
 #logo {
-    margin: 10px 20px;
     display: flex;
 }
 #logo h2 {
-    line-height: 226px;
+    line-height: 452px;
 }
