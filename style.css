@@ -18,7 +18,7 @@ header{
     width: 100%;
     height: 30vh;
     background:linear-gradient(#992BCD, #d9d9d900) ;
-    display: flex;
+    display: inline;
 }
 
 
