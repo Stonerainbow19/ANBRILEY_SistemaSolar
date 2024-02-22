@@ -25,6 +25,9 @@ header{
 
 #buttons {
     display: inline;
+}
+
+#buttons button {
     margin: 20px;
     background-color: #5E51AE;
     color: white;
