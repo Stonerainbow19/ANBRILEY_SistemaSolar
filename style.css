@@ -22,6 +22,10 @@ header{
 }
 
 
+header li {
+    display: flex;
+}
+
 #logo {
     display: flex;
     margin:auto 20px;
