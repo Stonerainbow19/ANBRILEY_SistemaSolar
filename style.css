@@ -25,5 +25,5 @@ header{
     display: flex;
 }
 #logo h2 {
-    line-height: 452px;
+    margin: auto 0;
 }
