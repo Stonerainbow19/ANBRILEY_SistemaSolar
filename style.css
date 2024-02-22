@@ -28,7 +28,10 @@ header li {
     padding: 20px;
     background-color: #5E51AE;
     color: white;
-    
+    border: 2px solid white;
+    border-radius: 8px;
+    width: 106px;
+    height: 37px;
 
 }
 
