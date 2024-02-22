@@ -17,5 +17,9 @@ body {
 
 #logo {
     display: flex;
-    padding: auto;
+
+}
+
+#logo h2 {
+    margin: auto 0;
 }
