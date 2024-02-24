@@ -26,7 +26,7 @@ header{
 #buttons {
     display: inline;
     margin: auto 0 auto 0;
-    text-align: end;
+
 }
 
 #buttons button {
@@ -37,6 +37,7 @@ header{
     border-radius: 8px;
     width: 106px;
     height: 37px;
+    float: right;
 
 }
 
