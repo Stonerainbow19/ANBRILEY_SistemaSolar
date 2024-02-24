@@ -91,7 +91,7 @@ header{
 
 /* Segunda seção [ Sistema Solar ] */
 
-#container02 span #sol {
+#sol {
     background-color: #E7B22B;
     border-radius: 50%;
     height: 480px;
