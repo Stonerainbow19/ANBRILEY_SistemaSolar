@@ -87,3 +87,14 @@ header{
     font-size: 25px;
     margin: 0 20px;
 }
+
+
+/* Segunda seção [ Sistema Solar ] */
+
+#container02 span #sol {
+    background-color: #E7B22B;
+    border-radius: 50%;
+    height: 480px;
+    width: 480px;
+
+}
