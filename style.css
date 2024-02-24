@@ -25,7 +25,8 @@ header{
 
 #buttons {
     display: inline;
-    margin: auto 0 auto 100vh;
+    margin: auto 0 auto 0;
+    float: right;
 
 }
 
