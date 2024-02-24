@@ -96,5 +96,6 @@ header{
     border-radius: 50%;
     height: 480px;
     width: 480px;
-
+    font-size: 60px;
+    font-weight: unset;
 }
