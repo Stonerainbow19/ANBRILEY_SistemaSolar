@@ -61,3 +61,16 @@ header{
 }
 
 
+/* Primeira seção */
+
+#container01 {
+    border: 2px solid white;
+    border-radius: 8px;
+
+
+}
+
+#container01 h2 {
+    background-color: #5E51AE;
+    
+}
