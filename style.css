@@ -66,11 +66,14 @@ header{
 #container01 {
     border: 2px solid white;
     border-radius: 8px;
-
+    text-align: center;
+    height: 50vh;
+    width: 50vh;
+    margin: 30px auto;
 
 }
 
 #container01 h2 {
     background-color: #5E51AE;
-    
+
 }
