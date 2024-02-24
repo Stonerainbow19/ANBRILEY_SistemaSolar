@@ -66,8 +66,8 @@ header{
 #container01 {
     border: 2px solid white;
     border-radius: 8px;
-    height: 100vh;
-    width: 150vh;
+    height: 50vh;
+    width: 100vh;
     margin: 100px auto;
 
 }
