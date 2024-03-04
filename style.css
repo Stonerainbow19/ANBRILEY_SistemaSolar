@@ -152,6 +152,7 @@ header{
     width: 100vh;
     margin: 0px 50px;
     float: right;
+    display: block;
 
 }
 
