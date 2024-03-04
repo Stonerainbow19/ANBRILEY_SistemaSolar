@@ -177,4 +177,9 @@ footer {
     height: 350px;
     margin-top: 700px ;
     background: linear-gradient(#6D3C93, #0A090A);
+
+}
+
+footer h3 {
+    margin: 40px auto;
 }
