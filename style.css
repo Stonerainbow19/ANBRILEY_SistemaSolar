@@ -117,7 +117,8 @@ header{
     border-radius: 8px;
     height: 50vh;
     width: 100vh;
-    margin: 700px auto;
+    margin: 700px 0;
+    float: left;
 
 }
 
@@ -128,7 +129,7 @@ header{
     font-size: 40px;
     font-weight: unset;
     padding: 50px;
-    
+    text-align: center;
 
 }
 
