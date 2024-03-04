@@ -175,6 +175,6 @@ header{
 
 footer {
     height: 350px;
-    display: inline-block;
+    float: inline-end;
     background: linear-gradient(#6D3C93, #0A090A);
 }
