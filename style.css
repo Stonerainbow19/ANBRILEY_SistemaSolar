@@ -92,7 +92,7 @@ header{
 /* Segunda seção [ Sistema Solar ] */
 
 #sec02 {
-    display: block;
+    display: inline-block;
 }
 
 #sec02 h2 {
