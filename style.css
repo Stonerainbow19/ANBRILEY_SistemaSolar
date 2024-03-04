@@ -108,3 +108,31 @@ header{
     box-shadow: 9px 4px 100px 0 #ff5e00e0;
     float: left;
 }
+
+
+/* Terceira seção */
+
+#container03 {
+    border: 2px solid white;
+    border-radius: 8px;
+    height: 50vh;
+    width: 100vh;
+    margin: 100px auto;
+
+}
+
+#container03 h2 {
+    background-color: #992BCD;
+    border: 2px solid transparent;
+    border-radius: 8px 8px 0 0;
+    font-size: 40px;
+    font-weight: unset;
+    padding: 50px;
+    text-align: center;
+
+}
+
+#container03 p {
+    font-size: 25px;
+    margin: 20px 20px;
+}
