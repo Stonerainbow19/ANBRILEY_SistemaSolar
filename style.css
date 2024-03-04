@@ -91,9 +91,6 @@ header{
 
 /* Segunda seção [ Sistema Solar ] */
 
-#sec02 {
-    display: inline-block;
-}
 
 #sec02 h2 {
     font-size: 60px;
@@ -110,6 +107,7 @@ header{
     height: 480px;
     width: 480px;
     box-shadow: 9px 4px 100px 0 #ff5e00e0;
+    display: inline-block;
     float: left;
 }
 
