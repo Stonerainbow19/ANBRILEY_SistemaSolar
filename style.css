@@ -181,5 +181,7 @@ footer {
 }
 
 footer h3 {
-    margin: 40px auto;
+    margin: 40px 0 ;
+    font-weight:normal;
+    text-align: center;
 }
