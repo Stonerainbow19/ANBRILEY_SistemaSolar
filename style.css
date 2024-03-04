@@ -150,8 +150,9 @@ header{
     border-radius: 8px;
     height: 50vh;
     width: 100vh;
-    margin: 0px 50px 100px 50px;
+    margin: 0px 50px;
     float: right;
+
 }
 
 #container04 h2 {
