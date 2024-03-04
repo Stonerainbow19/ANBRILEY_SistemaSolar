@@ -181,8 +181,8 @@ footer {
 }
 
 footer h3 {
+    display: inline-block;
     font-weight:normal;
     text-align: center;
     padding-top: 60px;
-    float: inline-end;
 }
