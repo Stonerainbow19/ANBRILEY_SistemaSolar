@@ -176,6 +176,7 @@ header{
 footer {
     
     height: 350px;
+    width: 100%;
     background: linear-gradient(#6D3C93, #0A090A);
     float: inline-end;
 
