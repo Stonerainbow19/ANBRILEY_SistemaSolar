@@ -177,7 +177,7 @@ footer {
     
     height: 350px;
     background: linear-gradient(#6D3C93, #0A090A);
-    display: inline-block;
+    float: inline-end;
 
 }
 
