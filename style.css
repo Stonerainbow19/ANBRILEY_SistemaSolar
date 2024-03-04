@@ -177,11 +177,11 @@ footer {
     
     height: 350px;
     background: linear-gradient(#6D3C93, #0A090A);
+    display: inline-block;
 
 }
 
 footer h3 {
-    display: inline-block;
     font-weight:normal;
     text-align: center;
     padding-top: 60px;
