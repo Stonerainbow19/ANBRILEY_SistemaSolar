@@ -174,9 +174,7 @@ header{
 /* Cabeçalho  */ 
 
 footer {
-
-    float: inline-end;
     height: 350px;
-
+    margin-top: 100px ;
     background: linear-gradient(#6D3C93, #0A090A);
 }
