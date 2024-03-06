@@ -17,6 +17,12 @@ body {
 
 /* ESTRELAS  */
 
+.wrapper {
+    z-index: 1;
+}
+
+
+
 #stars {
     width: 1px;
     height: 1px;
@@ -584,27 +590,6 @@ body {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* CABEÇALHO */
 
 header{
@@ -612,6 +597,7 @@ header{
     height: 30vh;
     background:linear-gradient(#9531CF,#5d51ae48) ;
     display: flex;
+    z-index: 1000;
 
 }
 
@@ -765,7 +751,7 @@ header{
 /* Cabeçalho  */ 
 
 footer {
-    
+    z-index: 2000;
     height: 350px;
     width: 100%;
     background: linear-gradient(#6D3C93, #0A090A);
