@@ -688,8 +688,8 @@ header{
 */
 
 #sol img{
+    box-shadow: 40px 100px 100px 0 #ff5e00e0;
     float: left;
-    box-shadow: 200px 1000px 100px 0 #ff5e00e0;
 }
 
 /* Terceira seção */
