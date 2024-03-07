@@ -645,7 +645,7 @@ header{
 
 #container01 h2 {
     background-color: #992BCD;
-    opacity: 0.2;
+    opacity: 1;
     border: 2px solid transparent;
     border-radius: 8px 8px 0 0;
     font-size: 40px;
