@@ -678,17 +678,18 @@ header{
     display: inline-block;
 
 }
-
+/*
 #sol {
     border-radius: 0 50% 50% 0;
     box-shadow: 200px 1000px 100px 0 #ff5e00e0;
     height: 150px;
     width: 150px;
 }
-
+*/
 
 #sol img{
     float: left;
+    box-shadow: 200px 1000px 100px 0 #ff5e00e0;
 }
 
 /* Terceira seção */
