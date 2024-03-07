@@ -696,7 +696,7 @@ header{
 #sol img:hover {
     /*width: 306px;
     height: 380px;*/
-    rotate: 20deg;
+    rotate: 5deg;
     cursor:pointer;
 }
 
