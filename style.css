@@ -678,7 +678,7 @@ header{
     display: inline-block;
 }
 
-#sol {
+#sol img{
     height: 480px;
     width: 480px;
     box-shadow: 0px 4px 100px 0 #ff5e00e0;
