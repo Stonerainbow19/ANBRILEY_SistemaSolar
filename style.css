@@ -589,7 +589,7 @@ body {
 header{
     width: 100%;
     height: 30vh;
-    background:linear-gradient(#9531CF ,#5d51ae48) ;
+    background:linear-gradient(#9531CF ,#5d51ae48, #0A090A) ;
     display: flex;
 
 
