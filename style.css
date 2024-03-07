@@ -680,7 +680,7 @@ header{
 }
 
 #sol {
-    border-radius: 50%;
+    border-radius: 50% 0 50% 0;
     box-shadow: 20px 40px 100px 0 #ff5e00e0;
 }
 
