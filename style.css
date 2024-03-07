@@ -696,6 +696,7 @@ header{
 #sol img:hover {
     width: 306px;
     height: 380px;
+    cursor:progress;
 }
 
 /* Terceira seção */
