@@ -688,8 +688,8 @@ header{
 */
 
 #sol img{
-    box-shadow: 40px 100px 100px 0 #ff5e00e0;
-    border-radius: 0 50% 50% 50%;
+    box-shadow: 200px 100px 100px 0 #ff5e00e0;
+    border-radius: 0 50% 50% 0;
     float: left;
 }
 
