@@ -693,6 +693,11 @@ header{
     float: left;
 }
 
+#sol img:hover {
+    width: 306px;
+    height: 380px;
+}
+
 /* Terceira seção */
 
 #container03 {
