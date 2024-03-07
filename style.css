@@ -676,10 +676,15 @@ header{
 #container02 {
     height: 50vh;
     display: inline-block;
+
+}
+
+#sol {
+    border-radius: 50%;
+    box-shadow: 0px 4px 100px 0 #ff5e00e0;
 }
 
 #sol img{
-    box-shadow: 0px 4px 100px 0 #ff5e00e0;
     float: left;
 }
 
