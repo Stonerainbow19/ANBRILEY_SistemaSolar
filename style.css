@@ -694,8 +694,9 @@ header{
 }
 
 #sol img:hover {
-    width: 306px;
-    height: 380px;
+    /*width: 306px;
+    height: 380px;*/
+    rotate: 20deg;
     cursor:pointer;
 }
 
