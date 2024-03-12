@@ -615,6 +615,7 @@ header{
 }
 
 #buttons button:hover {
+    cursor: pointer;
     background-color: #29234e;
     color: white;
 }
