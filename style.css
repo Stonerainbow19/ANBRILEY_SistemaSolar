@@ -1,5 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Khand:wght@300;400;500;600;700&display=swap');
 
+:root {
+    --button_color:#5E51AE;
+    --button_color_activate: #29234e;
+    --color_text: #fff;
+    --color_section: #992BCD;
+
+}
+
+
 * {
     margin: 0;
     padding: 0;
@@ -10,7 +19,7 @@ body {
     /*background-color: #000000f3;*/
     background: radial-gradient(ellipse at bottom, #1b2735 0%,#090a0f 100%);
     overflow: scroll;
-    color:white;
+    color:var(--color_text);
     font-family: "Khand", sans-serif;
 }
 
@@ -604,7 +613,7 @@ header{
 
 #buttons button {
     margin: 20px;
-    background-color: #5E51AE;
+    background-color: var(--button_color);
     color: white;
     border: 2px solid white;
     border-radius: 8px;
@@ -616,7 +625,7 @@ header{
 
 #buttons button:hover {
     cursor: pointer;
-    background-color: #29234e;
+    background-color: var(--button_color_activate);
     color: white;
 }
 
@@ -645,7 +654,7 @@ header{
 }
 
 #container01 h2 {
-    background-color: #992BCD;
+    background-color: var(--color_section);
     opacity: 1;
     border: 2px solid transparent;
     border-radius: 8px 8px 0 0;
@@ -712,7 +721,7 @@ header{
 }
 
 #container03 h2 {
-    background-color: #992BCD;
+    background-color: var(--color_section);
     border: 2px solid transparent;
     border-radius: 8px 8px 0 0;
     font-size: 40px;
@@ -740,7 +749,7 @@ header{
 }
 
 #container04 h2 {
-    background-color: #992BCD;
+    background-color: var(--color_section);
     border: 2px solid transparent;
     border-radius: 8px 8px 0 0;
     font-size: 40px;
