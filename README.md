@@ -1,5 +1,5 @@
-<div style="display: flex">
-<img src="img/Logo_legal.png">
+<div>
+<img src="img/Logo_legal.png" style=" text-align = "center">
 <h1 style=" text-align = "center";">ANBRILEY -- Descobrindo o Sistema Solar</h1> 
 </div>
 
