@@ -756,7 +756,7 @@ header{
     height: 50vh;
     width: 200vh;
     margin: 0px 50px;
-    float: right;
+    text-align: center;
     background: var(--color_section);
 }
 
