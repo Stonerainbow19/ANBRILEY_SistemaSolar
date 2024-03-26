@@ -781,7 +781,7 @@ footer {
     z-index: 2000;
     height: 350px;
     width: 100%;
-    background:linear-gradient(#9531CF 0% ,#5d51ae48 50% ,transparent 100%) ;
+    background: linear-gradient(#6D3C93, #0A090A);
     float: inline-end;
     margin-top: 60px;
 
