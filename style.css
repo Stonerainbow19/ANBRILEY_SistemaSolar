@@ -711,15 +711,17 @@ header{
 
 /* Terceira seção */
 
-/*
+/
 #container03 {
+    /*
     border: 2px solid white;
     border-radius: 8px;
+    */
     height: 50vh;
     width: 100vh;
     margin: 100px 50px;
 
-}*/
+}
 
 #container03 h2 {
     /*background-color: var(--color_section);*/
