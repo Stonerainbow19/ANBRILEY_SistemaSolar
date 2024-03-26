@@ -777,6 +777,7 @@ header{
 #container04 #persons {
     display: flex;
     background-color: #6D3C93;
+    width:115vh ;
 }
 
 #container04 .person {
