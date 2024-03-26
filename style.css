@@ -776,11 +776,11 @@ header{
 
 #container04 .person {
     background-color: var(--color_text);
-    width: 500px;
-    height: 700px;
+    width: 20vh;
+    height: 30vh;
     border: 2px solid black;
     border-radius: 8px;
-    display: flex;
+    
 
 }
 
