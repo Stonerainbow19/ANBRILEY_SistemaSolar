@@ -4,7 +4,7 @@
     --button_color:#5E51AE;
     --button_color_activate: #29234e;
     --color_text: #fff;
-    --color_section: #992BCD;
+    --color_section: linear-gradient(transparent 0%, #5d51ae48 50%, #9531CF 100% );;
 
 }
 
@@ -650,11 +650,11 @@ header{
     height: 50vh;
     width: 100vh;
     margin: 100px auto;
+    background: var(--color_section);
 
 }
 
 #container01 h2 {
-    background-color: var(--color_section);
     opacity: 1;
     border: 2px solid transparent;
     border-radius: 8px 8px 0 0;
@@ -720,7 +720,8 @@ header{
     height: 70vh;
     width: 100vh;
     margin: 100px 50px;
-    background: linear-gradient(transparent 0%, #5d51ae48 50%, #9531CF 100% );
+    background: var(--color_section);
+    
 
 }
 
@@ -756,11 +757,10 @@ header{
     width: 100vh;
     margin: 0px 50px;
     float: right;
-
+    background: var(--color_section);
 }
 
 #container04 h2 {
-    background-color: var(--color_section);
     border: 2px solid transparent;
     border-radius: 8px 8px 0 0;
     font-size: 40px;
