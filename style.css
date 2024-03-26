@@ -774,6 +774,10 @@ header{
     margin: 20px 20px;
 }
 
+#container04 #persons {
+    display: flex;
+}
+
 #container04 .person {
     background-color: var(--color_text);
     display: flex;
