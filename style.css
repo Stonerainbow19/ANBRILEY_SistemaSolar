@@ -735,6 +735,7 @@ header{
 }
 
 #container03 li{
+    margin: 0 10px 0 0;
     font-size: 25px;
     margin: 20px 20px;
 }
