@@ -755,7 +755,7 @@ header{
     border-radius: 8px;
     height: 50vh;
     width: 200vh;
-    text-align: center;
+    margin: 0 auto;
     background: var(--color_section);
 }
 
