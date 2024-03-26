@@ -777,7 +777,7 @@ header{
 #container04 #persons {
     display: flex;
     background-color: #6D3C93;
-    width:115vh ;
+    width:105vh ;
     margin: 0 auto;
 }
 
@@ -788,7 +788,7 @@ header{
     height: 45vh;
     border: 2px solid black;
     border-radius: 8px;
-
+    margin: 20px;
 }
 
 
