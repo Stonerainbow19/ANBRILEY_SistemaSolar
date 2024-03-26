@@ -776,6 +776,7 @@ header{
 
 #container04 #persons {
     display: flex;
+    text-align: center;
 }
 
 #container04 .person {
