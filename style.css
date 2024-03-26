@@ -776,7 +776,6 @@ header{
 
 #container04 #persons {
     display: flex;
-    margin: 0 auto;
 }
 
 #container04 .person {
@@ -786,6 +785,7 @@ header{
     height: 50vh;
     border: 2px solid black;
     border-radius: 8px;
+    text-align: center;
     
 
 }
