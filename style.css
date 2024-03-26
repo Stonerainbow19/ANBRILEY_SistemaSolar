@@ -781,7 +781,6 @@ header{
 }
 
 #container04 .person {
-    text-align: center;
     background-color: var(--color_text);
     color: black;
     display: flex;
@@ -790,6 +789,10 @@ header{
     border: 2px solid black;
     border-radius: 8px;
     margin: 0 40px;
+}
+
+#container04 h3 {
+    text-align: center;
 }
 
 
