@@ -797,7 +797,7 @@ header{
     display: flex;
     width: 35vh;
     height: 45vh;
-    border: 2px solid var(--button_color_activate);
+    border: 5px solid var(--button_color_activate);
     border-radius: 8px;
     margin: 0 40px;
 }
