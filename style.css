@@ -793,7 +793,7 @@ header{
 
 #container04 .person {
     background-color: var(--color_text);
-    color: black;
+    color: gray;
     display: flex;
     width: 35vh;
     height: 45vh;
