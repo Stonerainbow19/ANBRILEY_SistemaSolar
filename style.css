@@ -750,7 +750,7 @@ header{
 
 /* Quarta seção */
 #sec04 {
-    display: flex;
+    display: inline-block;
 }
 
 
