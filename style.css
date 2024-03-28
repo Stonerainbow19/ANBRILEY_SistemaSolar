@@ -751,6 +751,11 @@ header{
     margin: 20px 20px;
 }
 
+#container05 img{
+    width: 40vh;
+
+}
+
 
 /* Quarta seção */
 
@@ -799,10 +804,6 @@ header{
     margin: 50px auto;
 }
 
-#container05 img{
-    width: 40vh;
-
-}
 
 
 /* Cabeçalho  */ 
