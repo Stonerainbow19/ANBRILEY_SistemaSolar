@@ -749,6 +749,11 @@ header{
 
 
 /* Quarta seção */
+#sec04 {
+    display: flex;
+}
+
+
 
 #container04 {
     border: 2px solid white;
