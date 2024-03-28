@@ -712,6 +712,10 @@ header{
 /* Terceira seção */
 
 
+#sec03 {
+    display: flex;
+}
+
 #container03 {
     
     border: 2px solid white;
@@ -757,7 +761,6 @@ header{
     width: 150vh;
     margin: 0 auto;
     background: var(--color_section);
-    display: flex;
 }
 
 #container04 h2 {
