@@ -24,6 +24,10 @@ body {
 }
 
 
+a {
+    margin:0px;
+}
+
 /* ESTRELAS  */
 
 #stars {
@@ -712,10 +716,7 @@ header{
     transition: 1s all;
 }
 
-.planets a{
-    height: 0px;
-    margin: auto 2% ;
-}
+
 
 .planets-big{
     margin: auto 2% ;
