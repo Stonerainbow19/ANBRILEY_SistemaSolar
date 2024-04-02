@@ -718,7 +718,9 @@ header{
 .planets:hover{
     width: 100px;
     height: 100px;
+    filter: drop-shadow(0px 0px 100px #ff5e00e0);
     cursor:pointer;
+    
 }
 
 /* Terceira seção */
