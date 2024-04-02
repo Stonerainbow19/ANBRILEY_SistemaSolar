@@ -710,6 +710,9 @@ header{
 .planets {
     margin: auto 2% ;
 }
+.planets-big{
+    margin: auto 2% ;
+}
 
 .planets #saturno {
     rotate: 10deg;
