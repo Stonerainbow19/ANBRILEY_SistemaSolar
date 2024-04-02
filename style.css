@@ -711,6 +711,9 @@ header{
     margin: auto 0 auto 40px ;
 }
 
+.planets #saturno {
+    rotate: 10deg;
+}
 
 /* Terceira seção */
 
