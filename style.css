@@ -707,11 +707,11 @@ header{
     cursor:pointer;
 }
 
-.planets a {
+.planets {
     margin: auto 2% ;
     transition: 1s all;
 }
-.planets-big a{
+.planets-big{
     margin: auto 2% ;
     transition: 1s all;
 }
