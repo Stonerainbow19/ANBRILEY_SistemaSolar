@@ -711,6 +711,11 @@ header{
     margin: auto 2% ;
     transition: 1s all;
 }
+
+.planets a{
+    margin: auto 2% ;
+}
+
 .planets-big{
     margin: auto 2% ;
     transition: 1s all;
