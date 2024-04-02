@@ -5,3 +5,4 @@
             <a href="https://pt.wikipedia.org/wiki/Saturno_(planeta)"></a>
             <a href="https://pt.wikipedia.org/wiki/Urano_(planeta)"></a>
             <a href="https://pt.wikipedia.org/wiki/Netuno_(planeta)"></a>
+            <a href="https://pt.wikipedia.org/wiki/Merc%C3%BArio_(planeta)">
