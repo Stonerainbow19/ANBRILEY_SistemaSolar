@@ -713,6 +713,7 @@ header{
 }
 
 .planets a{
+    height: 0px;
     margin: auto 2% ;
 }
 
