@@ -709,6 +709,7 @@ header{
 
 .planets {
     display: flex;
+    justify-content: space-around;
 
 }
 
