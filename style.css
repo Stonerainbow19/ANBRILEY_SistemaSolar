@@ -709,6 +709,13 @@ header{
     cursor:pointer;
 }
 
+.planets {
+    display: flex;
+
+}
+
+
+
 /* Terceira seção */
 
 
