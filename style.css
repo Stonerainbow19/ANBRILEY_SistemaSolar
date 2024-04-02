@@ -705,7 +705,9 @@ header{
     cursor:pointer;
 }
 
-
+.planets {
+    margin-left: 30px ;
+}
 
 
 /* Terceira seção */
