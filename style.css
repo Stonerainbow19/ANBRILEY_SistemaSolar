@@ -689,18 +689,18 @@ header{
 
 }
 
-
-
-
-#sol{
-   /* box-shadow: 0px 0px 100px 100px #ff5e00e0;*/
-    margin: auto 0;
-    filter: drop-shadow(0px 0px 100px #ff5e00e0);
-    float: left;
-    transition: 1s all;
+#sol {
+    margin: auto 0 ;
 }
 
-#sol:hover {
+
+#sol img{
+   /* box-shadow: 0px 0px 100px 100px #ff5e00e0;*/
+    filter: drop-shadow(0px 0px 100px #ff5e00e0);
+    float: left;
+}
+
+#sol img:hover {
     width: 306px;
     height: 380px;
     cursor:pointer;
@@ -718,7 +718,6 @@ header{
 .planets #saturno {
     rotate: 10deg;
 }
-
 .planets-big:hover {
     width: 300px;
     height: auto;
