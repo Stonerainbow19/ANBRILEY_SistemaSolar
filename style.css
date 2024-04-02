@@ -685,20 +685,18 @@ header{
 
 #container02 {
     height: 50vh;
-    display: inline-block;
+    display: flex;
 
 }
 
-#sol {
-   display: flex;
-}
+
 
 
 #sol img{
    /* box-shadow: 0px 0px 100px 100px #ff5e00e0;*/
     filter: drop-shadow(0px 0px 100px #ff5e00e0);
     float: left;
-    display: flex;
+   
 }
 
 #sol img:hover {
@@ -707,11 +705,6 @@ header{
     cursor:pointer;
 }
 
-.planets {
-    display: flex;
-    justify-content: space-around;
-
-}
 
 
 
