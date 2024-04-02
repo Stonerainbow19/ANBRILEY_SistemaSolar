@@ -718,6 +718,14 @@ header{
     rotate: 10deg;
 }
 
+.planets-big {
+    width: 400px;
+    height: 400px;
+    filter: drop-shadow(0px 0px 100px blue);
+    cursor:pointer;
+}
+
+
 .planets:hover{
     width: 100px;
     height: 100px;
