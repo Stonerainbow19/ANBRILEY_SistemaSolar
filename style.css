@@ -716,8 +716,8 @@ header{
 }
 
 .planets:hover{
-    width: 306px;
-    height: 380px;
+    width: 100px;
+    height: 100px;
     cursor:pointer;
 }
 
