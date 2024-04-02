@@ -715,6 +715,12 @@ header{
     rotate: 10deg;
 }
 
+.planets:hover{
+    width: 306px;
+    height: 380px;
+    cursor:pointer;
+}
+
 /* Terceira seção */
 
 
