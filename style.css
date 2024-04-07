@@ -858,9 +858,9 @@ header{
 }
 
 .foto {
-    width: 250px;
+    width: 100px;
     height: auto;
-    margin: 20px auto;
+    margin: 0 auto;
 }
 
 #container04 h3 {
