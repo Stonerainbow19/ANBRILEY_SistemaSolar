@@ -854,6 +854,7 @@ header{
     border: 5px solid var(--button_color_activate);
     border-radius: 8px;
     margin: 0 40px;
+    text-align: center;
 }
 
 .foto {
