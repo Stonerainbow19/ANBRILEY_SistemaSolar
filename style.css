@@ -858,6 +858,8 @@ header{
 }
 
 .foto {
+    width: 250px;
+    height: auto;
     margin: 20px auto;
 }
 
