@@ -863,9 +863,21 @@ header{
     margin: 0 auto;
 }
 
+
+
 .social {
     display: flex;
+    margin: 10px auto;
 }
+
+.social img {
+    margin: 0 10px;
+}
+
+.social img:hover{
+    cursor: pointer;
+}
+
 
 #container04 h3 {
     margin: 50px auto;
