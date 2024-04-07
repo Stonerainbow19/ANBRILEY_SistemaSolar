@@ -863,6 +863,10 @@ header{
     margin: 0 auto;
 }
 
+.social {
+    display: flex;
+}
+
 #container04 h3 {
     margin: 50px auto;
 }
