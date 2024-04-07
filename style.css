@@ -694,6 +694,11 @@ header{
 
 }
 
+#container02 a {
+    height: 0;
+    margin: auto 0;
+}
+
 #sol {
     margin: auto 0 ;
 }
@@ -711,6 +716,8 @@ header{
     height: 380px;
     cursor:pointer;
 }
+
+
 
 .planets {
     margin: auto 2% ;
