@@ -694,7 +694,7 @@ header{
 
 }
 
-#container02 a {
+#container02 div a{
     height: 0;
     margin: auto 0;
 }
