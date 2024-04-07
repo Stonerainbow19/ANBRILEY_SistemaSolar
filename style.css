@@ -795,7 +795,12 @@ header{
     width: 50vh;
     float: right;
     margin: 25vh 0 0 100px;
+    transition: all 1s;
 
+}
+
+#container05 img:hover {
+    width: 55vh ;
 }
 
 
