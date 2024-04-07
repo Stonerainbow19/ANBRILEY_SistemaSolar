@@ -849,7 +849,6 @@ header{
 #container04 .person {
     background-color: var(--color_text);
     color: gray;
-    display: flex;
     width: 35vh;
     height: 45vh;
     border: 5px solid var(--button_color_activate);
@@ -858,8 +857,8 @@ header{
 }
 
 .foto {
-    width: 100px;
-    height: 100px;
+    width: 250px;
+    height: 250px;
     margin: 0 auto;
 }
 
