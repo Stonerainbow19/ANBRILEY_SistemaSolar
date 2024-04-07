@@ -721,19 +721,23 @@ header{
 }
 
 
+
 .planets img{
     transition: 1s all;
 }
 
 .planets-big{
     margin: auto 2% ;
+}
+.planets-big img{
     transition: 1s all;
 }
+
 
 .planets #saturno {
     rotate: 10deg;
 }
-.planets-big:hover {
+.planets-big img:hover {
     width: 300px;
     height: auto;
     filter: drop-shadow(0px 0px 100px blue);
