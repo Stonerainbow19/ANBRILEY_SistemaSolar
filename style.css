@@ -867,6 +867,7 @@ header{
 
 .social {
     display: flex;
+    width: 120px;
     margin: 10px auto;
 }
 
