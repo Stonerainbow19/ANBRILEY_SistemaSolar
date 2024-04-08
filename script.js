@@ -1,3 +1,3 @@
  function click(){
-    window.alert("É só demonstrativo")
+    window.alert("É só demonstrativo");
 }
