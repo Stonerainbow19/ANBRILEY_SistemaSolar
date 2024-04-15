@@ -861,6 +861,8 @@ header{
     width: 200px;
     height: 200px;
     margin: 40px auto;
+    border-radius: 50%;
+    
 }
 
 
@@ -869,7 +871,6 @@ header{
     display: flex;
     width: 150px;
     margin: 10px auto;
-    border-radius: 50%;
 }
 
 .social img {
